@@ -10,9 +10,15 @@
     font-style: normal;
 }
 
+main {
+  height: 768px;
+  background-image: url("file:///M:/Eluney/website/resources/images/perth_city.jpg");
+  background-position: center;
+}
 
-
-body h1 {
+body main h1 {
   font-family: 'danielregular', Arial, sans-serif;
-  font-size: 64px;
+  font-size: 128px;
+  text-align: center;
+  color: black;
 }
