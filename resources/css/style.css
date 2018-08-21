@@ -12,7 +12,7 @@
 
 main {
   height: 768px;
-  background-image: url("eluney/resources/images/perth_city.JPG");
+  background-image: url("./resources/images/perth_city.JPG");
   background-position: center;
 }
 
